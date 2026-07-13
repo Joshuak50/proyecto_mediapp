@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('adminlte::auth.login', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Users\kron0\Desktop\Atlitec\9ids1\9ids1\resources\views/auth/login.blade.php ENDPATH**/ ?>
